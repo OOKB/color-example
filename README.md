@@ -6,11 +6,10 @@ Download data and process. Save to JSON file.
 
 `git clone git@github.com:OOKB/color-example.git && cd color-example && yarn install`
 
-
 ## edit index.js
 
 You can save the page number at bottom of page. See `getSavePage('2')`.
 
-## npm start
+## npm start (yarn start)
 
-Running `npm start` will download, process, save. See downloads directory.
+Running `npm start` (or `yarn start`) will download, process, save. See downloads directory.
