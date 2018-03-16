@@ -34,6 +34,7 @@ function getSavePage(pageId) {
   return axios.get(getUrl(pageId))
     .then(processResults)
     .then(saveResult(pageId))
+    .then(() => console.log('DONE'))
     .catch(console.error)
 }
 
