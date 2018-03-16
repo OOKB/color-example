@@ -4,7 +4,7 @@ Download data and process. Save to JSON file.
 
 ## Clone or download the repository.
 
-`git clone https://github.com/ookb/color-example.git && cd airtable-schema`
+`git clone git@github.com:OOKB/color-example.git && cd color-example`
 
 
 ## edit index.js
