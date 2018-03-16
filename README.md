@@ -4,7 +4,7 @@ Download data and process. Save to JSON file.
 
 ## Clone or download the repository.
 
-`git clone git@github.com:OOKB/color-example.git && cd color-example`
+`git clone git@github.com:OOKB/color-example.git && cd color-example && yarn install`
 
 
 ## edit index.js
