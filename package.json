@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node index3.js"
+    "start": "node top100.js"
   },
   "dependencies": {
     "axios": "^0.18.0",
